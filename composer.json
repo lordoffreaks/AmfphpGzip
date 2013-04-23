@@ -1,0 +1,18 @@
+{
+  "name": "lordoffreaks/AmfphpGzip",
+  "description": "Plugin for Amfphp for support gzip compression",
+  "keywords": ["Amfphp","Gzip","Compression"],
+  "homepage": "https://github.com/lordoffreaks/AmfphpGzip",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alejandro Tabares",
+      "email": "alex311es@gmail.com",
+      "homepage": "http://about.me/alejandro.tabares"
+    }
+  ],
+  "require":{
+    "php": ">=5.3"
+  }
+}

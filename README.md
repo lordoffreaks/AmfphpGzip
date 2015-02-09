@@ -1,6 +1,8 @@
 AmfphpGzip
 ==========
 
+[![Join the chat at https://gitter.im/lordoffreaks/AmfphpGzip](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/lordoffreaks/AmfphpGzip?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Plugin for Amfphp for support gzip compression
 
 ## Configuration example
